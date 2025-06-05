@@ -1,1 +1,1 @@
-# AudioMOS
+# AudioMOS Challenge 2025
