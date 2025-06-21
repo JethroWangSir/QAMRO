@@ -1,1 +1,1 @@
-# [ASRU'25 AudioMOS Challenge] QAMRO: Quality-Aware Adaptive Margin Ranking Optimization for Human-Aligned Assessment of Audio Generation Systems
+# [ASRU'25 AudioMOS Challenge] QAMRO: Quality-aware Adaptive Margin Ranking Optimization for Human-aligned Assessment of Audio Generation Systems
